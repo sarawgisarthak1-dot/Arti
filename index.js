@@ -140,10 +140,10 @@ app.get('/', (req, res) => {
         </style>
       </head>
       <body>
-        <main role="main" aria-label="AFK Bot Dashboard">
+        <main role="main" aria-label="Arti Bot Dashboard">
 
           <header>
-            <h1>AFK Bot Dashboard</h1>
+            <h1>Arti Bot Dashboard</h1>
             <p>Minecraft server bot &middot; Live status</p>
           </header>
 
